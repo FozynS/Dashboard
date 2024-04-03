@@ -1,0 +1,20 @@
+body {
+  font-family: "Poppins", sans-serif;
+  padding: 26px 95px 0 28px;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.aside-container {
+  display: flex;
+}
+
+.aside-title {
+  margin-left: 8px;
+}
+
+.aside-title span {
+  color: #838383;
+  font-size: 10px;
+  font-weight: 400;
+}
