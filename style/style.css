@@ -153,7 +153,7 @@ main {
 }
 
 .search-bar {
-  background-image: url('/icons/search-loop.svg');
+  background-image: url('icons/search-loop.svg');
   background-size: 24px;
   background-repeat: no-repeat;
   background-position: 8px center;
